@@ -48,6 +48,7 @@
 	margin: -30px 20px;
 	min-height: 70px;
 	opacity: 0;
+	left:-20px;
 	overflow: hidden;
 	padding: 5px 10px;
 	position: absolute;
